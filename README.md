@@ -13,3 +13,8 @@ Steps to run eUVM
 After running make run
 ![image](https://github.com/user-attachments/assets/209cc77e-7cb8-434b-a39a-4e9941ee4492)
 
+To run waveforms
+```
+gtkwave my_adder_ip.vcd
+```
+![image](https://github.com/user-attachments/assets/820d4e68-b067-4a83-b3a1-10d2df74377a)
